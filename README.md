@@ -19,6 +19,7 @@ This is a C# Discord.net v3 Bot thats main purpose is to be another big bot that
 * Giveaways
 * Polls
 * Reaction Rolls
+* Control Pterodactyl Panel Client/Application(Optional)
 
 
 ## MySQL
